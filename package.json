@@ -30,7 +30,6 @@
     "lint"
   ],
   "devDependencies": {
-    "react": "~0.13.1",
     "eslint-plugin-react": "~2.5.2"
   },
   "startserver": [
